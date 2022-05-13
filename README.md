@@ -5,4 +5,4 @@ The Source Code to the Racoon Coin Blockchain
 
 Any Payment. Anywhere. With your Raccon Wallet Release V1.0.
 Developed a platform to reward by mining via CPU and reward by staking
-Visit our Discord for Official Updates, Innovations, and Wallet information! https://discord.gg/aVShssbz
+Visit our Racoon Discord for Official Updates, and Wallet information! https://discord.gg/aVShssbz
